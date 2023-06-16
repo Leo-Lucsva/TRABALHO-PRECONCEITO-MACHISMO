@@ -184,3 +184,14 @@ footer {
     color: white;
     text-align: center;
 }
+
+@media (max-width:800px){
+
+    h1 {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 50px;
+
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+}
